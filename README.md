@@ -53,4 +53,4 @@
 
 ## 相关项目
 
-- [codexlink](https://github.com/crowntoday555-art/codexlink) —— Codex Link（Codex 版同款手表遥控工具）
+- [codexlink-release](https://github.com/crowntoday555-art/codexlink-release) —— Codex Link（Codex 版同款手表遥控工具）
