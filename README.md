@@ -51,6 +51,8 @@
 
 所有数据均在局域网内直接传输，**不经过任何服务器，不上传任何数据**。
 
+完整隐私政策：[PRIVACY.md](./PRIVACY.md)（网页版：[privacy.html](./privacy.html)）
+
 ## 相关项目
 
 - [codexlink-release](https://github.com/crowntoday555-art/codexlink-release) —— Codex Link（Codex 版同款手表遥控工具）
