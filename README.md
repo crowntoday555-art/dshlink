@@ -10,7 +10,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| [DSHLinkEngine.exe](./DSHLinkEngine.exe) | PC 引擎 · Windows x64 · **v1.2.0** · 单文件自包含，无需安装 .NET |
+| [DSHLinkEngine.exe](./DSHLinkEngine.exe) | PC 引擎 · Windows x64 · 单文件自包含，无需安装 .NET（含 DSH 扩展插件一键安装、隐私政策、完整使用手册） |
 
 ## 系统要求
 
