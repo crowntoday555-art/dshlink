@@ -1,8 +1,10 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "date": "2026-10-24",
   "exe": "https://github.com/crowntoday555-art/dshlink/raw/main/DSHLinkEngine.exe",
   "notes": [
+    "新增：DSH 数据目录「重新查找」与手动路径设置（VM / 便携部署适配）",
+    "改进：未生成会话投影缓存时的日志提示与排障指引",
     "新增：版本检查与在线自更新（设置 → 版本与更新）",
     "新增：DSH 扩展插件一键安装（模型切换 / 推理强度 / 会话导航快捷键）",
     "新增：A7–A9 Agent 键（重命名 / 分叉 / 添加工作区）",
