@@ -1,6 +1,6 @@
-# 大烧货LINK Engine（PC 端）
+# 鲸鱼link Engine（PC 端）
 
-**大烧货LINK（DSHLink）** —— 用华为手表通过 Wi-Fi 局域网遥控 PC 上的 **DeepSeek Harness（DSH）** 编程助手。
+**鲸鱼link（DSHLink）** —— 用华为手表通过 Wi-Fi 局域网遥控 PC 上的 **DeepSeek Harness（DSH）** 编程助手。
 
 手表端 App 通过局域网 TCP 向 PC 端引擎发送控制指令，引擎将指令转换为键鼠操作，发送给处于前台的 DeepSeek Harness 桌面应用；同时引擎读取 DSH 的会话投影缓存，把 **项目进度、五色状态灯、会话列表与历史对话** 实时同步到手表，状态变化时手表震动提醒。
 
@@ -23,7 +23,7 @@
 1. 下载 `DSHLinkEngine.exe` 并运行（单文件，无需安装）。
 2. 首次运行允许 Windows 防火墙（勾选「专用网络」）。
 3. 主界面记下 **配对码**（可点击复制）、**本机 IP**，TCP 端口默认 **9537**。
-4. 手表端安装「大烧货LINK」App（HarmonyOS），输入 PC 的 IP 与配对码完成配对。
+4. 手表端安装「鲸鱼link」App（HarmonyOS），输入 PC 的 IP 与配对码完成配对。
 5. 打开 DeepSeek Harness 进入任意会话，保证其窗口在前台（引擎发送按键前也会自动聚焦）。
 6. 程序驻留系统托盘，双击托盘图标恢复窗口。
 

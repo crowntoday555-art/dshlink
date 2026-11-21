@@ -1,10 +1,11 @@
 {
-  "version": "1.2.3",
-  "date": "2026-10-25",
+  "version": "1.2.4",
+  "date": "2026-11-21",
   "exe": "https://github.com/crowntoday555-art/dshlink/raw/main/DSHLinkEngine.exe",
   "notes": [
-    "修复：DSH 扩展插件挂载改为写入全局层（~/.dsh/cordis.patch.yml）——DSH 0.2.1-rc.3 会重写 profile 层导致第三方挂载丢失、插件静默失效（推理强度/模型/会话快捷键全部无作用）。现已彻底解决",
-    "插件：v0.2.4 —— 推理强度切换修复（先加载目录再读取当前档位）+ 注册诊断标记（window.__dshlinkRegistered）",
-    "提示：插件更新后在设置中重新点一次「安装」即可升级到 v0.2.4"
+    "应用更名：大烧货LINK → 鲸鱼link（界面/手册/托盘/发现广播全部同步）",
+    "新增：启动时弹出赞助窗口（其他·第三页）；在 %LocalAppData%\\DSHLink\\ 新建空文件 no_sponsor 即可永久跳过，不影响任何功能",
+    "插件 v0.2.4：DSH 0.2.1-rc.3 兼容修复（挂载写入全局层不再丢失）+ 推理强度切换修复",
+    "引擎安装包修复：上一版 GitHub 包为损坏文件，请务必更新到本版"
   ]
 }

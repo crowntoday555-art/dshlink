@@ -1,12 +1,12 @@
-# 大烧货LINK 隐私政策
+# 鲸鱼link 隐私政策
 
 > 生效日期：2026 年 10 月 10 日　·　最近更新：2026 年 10 月 16 日
 
-**应用名称**：大烧货LINK（HarmonyOS 手表端，包名 `com.DSHlink.LZX`）
-**配套组件**：大烧货LINK Engine（Windows PC 端引擎，`DSHLinkEngine.exe`）
+**应用名称**：鲸鱼link（HarmonyOS 手表端，包名 `com.DSHlink.LZX`）
+**配套组件**：鲸鱼link Engine（Windows PC 端引擎，`DSHLinkEngine.exe`）
 **开发与运营**：个人开发者（独立开发 / 非官方产品，与 DeepSeek 官方无关）
 
-感谢使用 大烧货LINK。我们非常重视您的个人信息与隐私保护。本政策适用于 大烧货LINK 手表端应用与 PC 端引擎，将说明我们收集、使用和存储的信息，以及您享有的权利。
+感谢使用 鲸鱼link。我们非常重视您的个人信息与隐私保护。本政策适用于 鲸鱼link 手表端应用与 PC 端引擎，将说明我们收集、使用和存储的信息，以及您享有的权利。
 
 ---
 
